@@ -1,7 +1,7 @@
 {
   "Title": "Neon Drift",
   "Type": "game",
-  "Org": "local",
+  "Org": "steilbros",
   "Ident": "neon_drift",
   "Schema": 1,
   "IncludeSourceFiles": false,
